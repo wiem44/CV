@@ -1,0 +1,63 @@
+body{
+    width: 1160px;
+    margin: auto;
+    border-right: 1px solid black;
+}
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+.content p,
+content a,
+ul,
+small {
+    font-family: "Raleway",sans-serif;
+}
+h1,
+h2{
+    font-family: "Lato",sans-serif;
+    font-size: 2em;
+}
+
+h3,
+h4{
+    font-family: "Lato",sans-serif;
+    font-size: 1,5em;
+}
+    
+h3{
+    margin-top: 10px;
+    margin-right: 10px;
+    padding-left: 10px;
+    background-color: #dbc2a4;
+    color: black;
+}
+.h3:hover{
+    background-color: #782221;
+}
+h1,
+h2{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+ul{
+    margin-left: 10px;
+}
+.main p{
+    margin-left: 30px;
+   
+}
+
+
+.content div{
+    line-height: 60px;
+}
+.content div ul{
+    line-height: 30px;
+}
+
+.about_me div{
+    line-height: 20px;
+}
+
+
