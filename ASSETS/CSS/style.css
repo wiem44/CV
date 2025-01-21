@@ -3,14 +3,14 @@
 
 @font-face{
     font-family:"Raleway";
-    src: url('../CV/Fonts/Raleway-Regular.woff');
-    src: url('../CV/Fonts/Raleway-Regular.ttf') format('truetype');
-    src: url('../CV/Fonts/Raleway-Italic.woff');
-    src: url('../CV/Fonts/Raleway-Italic.ttf') format('truetype');
+    src: url('../CV/ASSETS/Fonts/Raleway-Regular.woff');
+    src: url('../CV/ASSETS/Fonts/Raleway-Regular.ttf') format('truetype');
+    src: url('../CV/ASSETS/Fonts/Raleway-Italic.woff');
+    src: url('../CV/ASSETS/Fonts/Raleway-Italic.ttf') format('truetype');
 
     font-family:"Lato";
-    scr: url('../CV/Fonts/Lato-Bold.woff');
-    scr: url('../CV/Fonts/Lato-Bold.ttf') format('truetype');
+    scr: url('../CV/ASSETS/Fonts/Lato-Bold.woff');
+    scr: url('../CV/ASSETS/Fonts/Lato-Bold.ttf') format('truetype');
 }
 
 .italic{
@@ -28,7 +28,6 @@ header{
     flex-direction: column;
     justify-content: center;
     text-align: center;
-    
 }
 
 figure{
@@ -70,6 +69,7 @@ a{
 main{
     display: flex;
 }
+
 section{
     display: flex;
     flex-direction: column;
